@@ -1,0 +1,6 @@
+{
+  "name": "PSY-VIBE",
+  "description": "Youth Sanctuary - Ruang Aman Curhat AI & Skrining Emosi Tanpa Stigma dengan deteksi mikro-ekspresi dan suara multimodal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
